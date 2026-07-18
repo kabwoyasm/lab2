@@ -1,0 +1,54 @@
+{
+    "FORM_TYPE": "STANDARD CONTRIBUTIONS RETURN FORM",
+    "EMPLOYER_NAME": "J.M. NJAGE & CO. ADV.",
+    "EMPLOYER_NUMBER": "",
+    "ADDRESS": "PO Box 44695 NAIROBI",
+    "BATCH_NUMBER": "46823",
+    "NO_OF_ENTRIES": "5",
+    "TOTAL_VALUE_SHILLINGS": "800",
+    "SERIAL_NUMBER_FORM": null,
+    "MONTH": "12",
+    "YEAR": "1994",
+    "CHEQUE_NUMBER": "057735",
+    "DATE_OF_SUBMISSION": "20.12.94",
+    "STANDARD_CONTRIBUTIONS_TOTAL": "800",
+    "SPECIAL_CONTRIBUTIONS_PENALTIES": null,
+    "GRAND_TOTAL": "800",
+    "TABLE_ROWS": [
+        {
+            "AMOUNT": "160",
+            "EMPLOYEE_NAME": "O.O. RAMOGO",
+            "FUND_MEMBERSHIP_NUMBER": "140143891",
+            "PERSONAL_NUMBER": "01",
+            "REMARKS": ""
+        },
+        {
+            "AMOUNT": "160",
+            "EMPLOYEE_NAME": "N.N. GATABAKI",
+            "FUND_MEMBERSHIP_NUMBER": "207588813",
+            "PERSONAL_NUMBER": "02",
+            "REMARKS": ""
+        },
+        {
+            "AMOUNT": "160",
+            "EMPLOYEE_NAME": "A.T. KAVULI",
+            "FUND_MEMBERSHIP_NUMBER": "111748623",
+            "PERSONAL_NUMBER": "03",
+            "REMARKS": ""
+        },
+        {
+            "AMOUNT": "160",
+            "EMPLOYEE_NAME": "M.B. NANGABO",
+            "FUND_MEMBERSHIP_NUMBER": "347834620",
+            "PERSONAL_NUMBER": "04",
+            "REMARKS": ""
+        },
+        {
+            "AMOUNT": "160",
+            "EMPLOYEE_NAME": "J.N. MUTUKU",
+            "FUND_MEMBERSHIP_NUMBER": "378600818",
+            "PERSONAL_NUMBER": "05",
+            "REMARKS": ""
+        }
+    ]
+}
